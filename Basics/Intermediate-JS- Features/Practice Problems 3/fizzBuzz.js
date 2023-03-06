@@ -20,6 +20,6 @@ function fizzBuzz(numbers) {
   return fizzBuzz;
 }
 
-const numbers = [1, 3, 5, 9, 11, 12, 20];
+const numbers = [1, 3, 5, 9, 11, 12, 20, 22, 25, 29];
 
 console.log(fizzBuzz(numbers));
